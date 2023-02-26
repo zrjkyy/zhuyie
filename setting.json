@@ -1,0 +1,46 @@
+{
+    "title": "小蔡の主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "小蔡,个人主页",
+    "author": "小蔡",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "7zz",
+    "logo_text_2": "cn",
+    "github": "imsyy",
+    "qq": "4056860",
+    "email": "7@7zz.cn",
+    "bilibili": "",
+    "telegram": "wzrjkyy",
+    "link_1": [
+        "https://blog.7zz.cn/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://drive.7zz.cn/",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "https://music.7zz.cn/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://nav.7zz.cn/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://web.7zz.cn/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://lab.7zz.cn/",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "Copyright_text": "小蔡",
+    "beian": "豫ICP备2021018473号-3"
+}
